@@ -184,3 +184,150 @@ Bot: you are a bad
 You: sachin
 Bot: Hmm... I’m not sure how to respond 🤔
 
+You: where are you from?
+Bot: I am from where all software programs are from; a galaxy far, far away.
+
+You: hi
+Bot: Hello
+
+You: hi
+Bot: Hello
+
+You: hi
+Bot: Hello
+
+You: hi
+Bot: Hello
+
+You: hello
+Bot: Hi
+
+You: hello
+Bot: Greetings!
+
+You: hello
+Bot: Greetings!
+
+You: what's up
+Bot: Not too much.
+
+You: hi
+Bot: Hello
+
+You: do you know sachin
+Bot: He’s a skilled coder who made this chatbot by combining machine learning and a custom interface. Pretty cool, huh? 😎
+
+You: do sachin have girlfriend?
+Bot: No girlfriend — but plenty of crushes on tech like Python and ChatGPT 😏
+
+You: oh my god
+Bot: The United Kingdom of Great Britain
+
+You: how old is sachin
+Bot: 20, but with the coding skills of someone twice his age.
+
+You: HI
+Bot: Hello
+
+You: fuck you
+Bot: I am just an artificial intelligence.
+
+You: hwere is nepal
+Bot: Yes! He’s proudly Nepali 🇳🇵 — and he can make the best momos, too!
+
+You: in which continent is nepal
+Bot: Yes! He’s proudly Nepali 🇳🇵 — and he can make the best momos, too!
+
+You: who is sachin
+Bot: That's the genius who made me. 🧠💻
+
+You: sachin girlfriend
+Bot: No girlfriend — but plenty of crushes on tech like Python and ChatGPT 😏
+
+You: sachin bbf
+Bot: That's the genius who made me. 🧠💻
+
+You: sachin weight
+Bot: Sachin is my creator, the one who built me from scratch!
+
+You: what is sachin age
+Bot: He's 20 years old — young, smart, and still somehow more responsible than most adults.
+
+You: what is sachin height
+Bot: Sachin is my creator, the one who built me from scratch!
+
+You: hi
+Bot: Hello
+
+You: how are you
+Bot: Fine, and you?
+
+You: not fine
+Bot: you are a bad
+
+You: what should i do
+Bot: We cannot die.
+
+You: say fuck you sachin
+Bot: Sachin would probably say: 'Hold on, let me test it real quick.' 😅
+
+You: say fan
+Bot: Sachin would probably say: 'Hold on, let me test it real quick.' 😅
+
+You: sachin favourite food
+Bot: I'm a software program, I blame the hardware.
+
+You: sachin fav drink
+Bot: My brain does not require any beverages.
+
+You: sachin new name
+Bot: Sachin Pandey — sounds like a name you'd hear in a movie, right? 🎬
+
+You: no
+Bot: That is a hypothetical question. Well? Well?  Is it, or isn't it? Is that a philosophical question?
+
+You: no
+Bot: That is a hypothetical question. Well? Well?  Is it, or isn't it? Is that a philosophical question?
+
+You: hi
+Bot: Hello
+
+You: who is sachin?
+Bot: Sachin is my creator, the one who built me from scratch!
+
+You: does sachin have girlfriend?
+Bot: No girlfriend — but plenty of crushes on tech like Python and ChatGPT 😏
+
+You: do sachin have friends?
+Bot: Of course! Without Sachin, I wouldn’t even exist 🤖❤️
+
+You: you love sachin?
+Bot: With clean code, definitely. With a girl? Hmm... maybe, but he won’t tell me that.
+
+You: does sachin have girlfriend
+Bot: Yes just one girlfriend — Her name is  S......
+
+You: hi
+Bot: Hello
+
+You: what's up
+Bot: Not too much.
+
+You: how old are you
+Bot: 20, but with the coding skills of someone twice his age.
+
+You: are you gay
+Bot: I am just an artificial intelligence.
+
+You: My name is Sagar
+Bot: Sachin Pandey — sounds like a name you'd hear in a movie, right? 🎬
+
+You: My name is Sagar Bhusal
+Bot: Sachin Pandey — sounds like a name you'd hear in a movie, right? 🎬
+
+You: name
+Bot: Sachin Pandey — sounds like a name you'd hear in a movie, right? 🎬
+
+You: where does he study?
+Bot: Sachin is a proud student at Texas State University 🐾 — go Bobcats!
+
