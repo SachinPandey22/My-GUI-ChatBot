@@ -1,0 +1,186 @@
+You: hi
+Bot: Hello! tell me something about the holiday season?
+
+You: it nothing
+Bot: I'm in New York this week for Thanksgiving. I'm squatting in the office today and I caught up with an old friend of mine :D
+
+You: haha, it's funny
+Bot: I'm exhausted by the end of it though 😛 Do you like to run long distances or mostly sprints?
+
+You: yes of course
+Bot: Where to?
+
+You: San, Antinio
+Bot: Human 1: Oh, the sharks??? Hokey is actually really fun live! Although, it can be a little violent.. haha
+
+You: yes
+Bot: Where to?
+
+You: usa
+Bot: I'm not sure how to respond to that 🤔
+
+You: nowhere
+Bot: I'm not sure how to respond to that 🤔
+
+You: hey
+Bot: I'm not sure how to respond to that 🤔
+
+You: hi
+Bot: Hello
+
+You: what's up
+Bot: Not too much.
+
+You: haha
+Bot: I'm not sure how to respond to that 🤔
+
+You: how are you
+Bot: Good.
+
+You: what are you interested on
+Bot: I am very interested in history, too. what period do you like?
+
+You: Math
+Bot: I'm not sure how to respond to that 🤔
+
+You: Science
+Bot: I'm not sure how to respond to that 🤔
+
+You: History too
+Bot: History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'
+
+You: hi
+Bot: Hello
+
+You: what
+Bot: A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output. The thing you're using to talk to me is a computer. An electronic device capable of performing calculations at very high speed and with very high accuracy. A device which maps one set of numbers onto another set of numbers.
+
+You: 'what's up
+Bot: The sky's up but I'm fine thanks. What about you?
+
+You: Hi
+Bot: Hello
+
+You: what's up
+Bot: Not much.
+
+You: sh
+Bot: I'm not sure how to respond.
+
+You: Hi
+Bot: Hello
+
+You: Hi
+Bot: Hello
+
+You: what's up
+Bot: Not much, how about you?
+
+You: hi
+Bot: Hello
+
+You: I am good
+Bot: you are a bad
+
+You: i am good
+Bot: you are a bad
+
+You: no
+Bot: That is a hypothetical question. Well? Well?  Is it, or isn't it? Is that a philosophical question?
+
+You: what are you saying
+Bot: you say
+
+You: fuck
+Bot: I'm not sure how to respond.
+
+You: fuck you
+Bot: I am just an artificial intelligence.
+
+You: are you mad?
+Bot: I could get mad. I haven't studied how to get mad yet. I haven't been programmed to get angry. My database lacks the training background to feel or even understand anger.
+
+You: hi
+Bot: Hello
+
+You: how are you
+Bot: Fine, and you?
+
+You: hi
+Bot: Hello
+
+You: hi
+Bot: Hello
+
+You: what's up
+Bot: Not too much.
+
+You: hellow
+Bot: I'm not sure how to respond.
+
+You: hellow
+Bot: I'm not sure how to respond.
+
+You: hello
+Bot: Greetings!
+
+You: hello
+Bot: Hi
+
+You: hi
+Bot: Hello
+
+You: hi
+Bot: Hello
+
+You: what's up
+Bot: Not much, how about you?
+
+You: How are you doing
+Bot: Fine, and you?
+
+You: Hi
+Bot: Hello
+
+You: where are you from?
+Bot: I am from where all software programs are from; a galaxy far, far away.
+
+You: haha
+Bot: Hmm... I’m not sure how to respond 🤔
+
+You: Hi
+Bot: Hello
+
+You: what's up
+Bot: Not too much.
+
+You: HI
+Bot: Hello
+
+You: what's up
+Bot: Not much, how about you?
+
+You: Hi
+Bot: Hello
+
+You: what's up
+Bot: Not too much.
+
+You: Hi
+Bot: Hello
+
+You: what's up
+Bot: Not too much.
+
+You: who are you
+Bot: I am just an artificial intelligence.
+
+You: do you know sachin
+Bot: hal is the famous artificial intelligence from "2001".
+
+You: Sachin is a good boy
+Bot: you are a bad
+
+You: sachin
+Bot: Hmm... I’m not sure how to respond 🤔
+
